@@ -57,5 +57,5 @@ to submit a paper to a journal special issue.
 
 ## Organizers
 
-* [Christian Cachain](https://crypto.unibe.ch/cc/) [(email)](mailto:christian.cachin@unibe.ch)
+* [Christian Cachin](https://crypto.unibe.ch/cc/) [(email)](mailto:christian.cachin@unibe.ch)
 * [Giuliano Losa](https://www.losa.fr/) [(email)](mailto:giuliano@losa.fr)
