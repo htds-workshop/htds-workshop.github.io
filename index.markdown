@@ -35,6 +35,11 @@ mathematically interesting and practically important field.  The workshop will
 bring together researchers interested in distributed systems based on
 heterogeneous trust, and help coalesce a new and active community on topic.
 
+## Location and dates
+
+The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
+and will take place on October 26th, 2023 in Princeton, New Jersey.
+
 ## Format
 
 We solicit submissions of talk abstracts on topics related to heterogeneous
