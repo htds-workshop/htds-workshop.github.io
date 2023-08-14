@@ -60,6 +60,13 @@ Titles and abstracts will be published on the workshop website. There will not
 be any workshop proceedings.  Authors of selected submissions will be invited
 to submit a paper to a journal special issue.
 
+Talks will be 30 minutes + questions. Submissions can be extended abstracts
+(from a few paragraphs to maximum 5 pages) or full papers (maximum 15 pages) in
+a format of the author's choosing. Please send you submissions to the
+organizers by email before September 22nd. Submissions can be made anytime
+before that date and the organizers will review them shortly after they are
+received.
+
 ## Organizers
 
 * [Christian Cachin](https://crypto.unibe.ch/cc/) [(email)](mailto:christian.cachin@unibe.ch)
