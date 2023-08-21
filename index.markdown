@@ -66,16 +66,6 @@ received.
 There will not be any workshop proceedings, but authors of selected submissions
 will be invited to submit a paper to a journal special issue.
 
-## Student Travel grants
-
-The Stellar Development Foundation is offering travel grants to selected graduate students.
-Receipients of travel grants will be able to submit their travel and lodging expenses for reimbursement of up to USD1500.
-
-To apply for a travel grant, please send an application to the organizers.
-There are a limited number of grants available, and preference will be given to students who will be presenting at the workshop.
-
-To apply, please email the organizers and include a letter of support from your thesis supervisor or home institution confirming your student status and stating that a grant would help make it possible for you to attend the workshop.
-
 ## Organizers
 
 * [Christian Cachin](https://crypto.unibe.ch/cc/), University of Bern [(email)](mailto:christian.cachin@unibe.ch)
