@@ -40,6 +40,9 @@ heterogeneous trust, and help coalesce a new and active community on topic.
 The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
 and will take place on October 26th, 2023 in Princeton, New Jersey.
 
+We offer a limited number of travel grants for graduate students, with priority given to speakers at the workshop.
+Please fill out the [application form](https://forms.gle/HbzyJpzS7mKsAHjq8) to apply, indicating in the last question in the form that you are applying for support to attend this workshop.
+
 # Speakers
 
 - [David Mazières](https://www.scs.stanford.edu/~dm/), Standford University, USA
