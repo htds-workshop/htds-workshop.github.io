@@ -49,9 +49,9 @@ Please fill out the [application form](https://forms.gle/HbzyJpzS7mKsAHjq8) to a
 - [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK
 - More to come...
 
-# Format
+# Call for abstracts
 
-We solicit submissions of abstracts and full papers on topics related to heterogeneous
+We solicit submissions of talk abstracts and full papers on topics related to heterogeneous
 trust in distributed systems, including but not limited to:
 - Mathematical models of heterogeneous trust
 - Distributed algorithms under heterogeneous-trust models, including consensus
