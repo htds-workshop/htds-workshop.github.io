@@ -42,7 +42,7 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 
 ## Format
 
-We solicit submissions of talk abstracts on topics related to heterogeneous
+We solicit submissions of abstracts and full papers on topics related to heterogeneous
 trust in distributed systems, including but not limited to:
 - Mathematical models of heterogeneous trust
 - Distributed algorithms under heterogeneous-trust models, including consensus
@@ -56,10 +56,6 @@ trust in distributed systems, including but not limited to:
 - Heterogeneous trust in reconfigurable and dynamic systems
 - Social dynamics in heterogeneous trust systems
 
-Titles and abstracts will be published on the workshop website. There will not
-be any workshop proceedings.  Authors of selected submissions will be invited
-to submit a paper to a journal special issue.
-
 Talks will be 30 minutes + questions. Submissions can be extended abstracts
 (from a few paragraphs to maximum 5 pages) or full papers (maximum 15 pages) in
 a format of the author's choosing. Please send you submissions to the
@@ -67,7 +63,20 @@ organizers by email before September 22nd. Submissions can be made anytime
 before that date and the organizers will review them shortly after they are
 received.
 
+There will not be any workshop proceedings, but authors of selected submissions
+will be invited to submit a paper to a journal special issue.
+
+## Student Travel grants
+
+The Stellar Development Foundation is offering travel grants to selected graduate students.
+Receipients of travel grants will be able to submit their travel and lodging expenses for reimbursement of up to USD1500.
+
+To apply for a travel grant, please send an application to the organizers.
+There are a limited number of grants available, and preference will be given to students who will be presenting at the workshop.
+
+To apply, please email the organizers and include a letter of support from your thesis supervisor or home institution confirming your student status and stating that a grant would help make it possible for you to attend the workshop.
+
 ## Organizers
 
-* [Christian Cachin](https://crypto.unibe.ch/cc/) [(email)](mailto:christian.cachin@unibe.ch)
-* [Giuliano Losa](https://www.losa.fr/) [(email)](mailto:giuliano@losa.fr)
+* [Christian Cachin](https://crypto.unibe.ch/cc/), University of Bern [(email)](mailto:christian.cachin@unibe.ch)
+* [Giuliano Losa](https://www.losa.fr/) Stellar Development Foundation [(email)](mailto:giuliano@stellar.org)
