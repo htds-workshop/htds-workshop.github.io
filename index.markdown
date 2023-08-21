@@ -35,12 +35,18 @@ mathematically interesting and practically important field.  The workshop will
 bring together researchers interested in distributed systems based on
 heterogeneous trust, and help coalesce a new and active community on topic.
 
-## Location and dates
+# Location and dates
 
 The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
 and will take place on October 26th, 2023 in Princeton, New Jersey.
 
-## Format
+# Speakers
+
+- [David Mazières](https://www.scs.stanford.edu/~dm/), Standford University, USA
+- [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK
+- More to come...
+
+# Format
 
 We solicit submissions of abstracts and full papers on topics related to heterogeneous
 trust in distributed systems, including but not limited to:
@@ -66,7 +72,7 @@ received.
 There will not be any workshop proceedings, but authors of selected submissions
 will be invited to submit a paper to a journal special issue.
 
-## Organizers
+# Organizers
 
 * [Christian Cachin](https://crypto.unibe.ch/cc/), University of Bern [(email)](mailto:christian.cachin@unibe.ch)
 * [Giuliano Losa](https://www.losa.fr/) Stellar Development Foundation [(email)](mailto:giuliano@stellar.org)
