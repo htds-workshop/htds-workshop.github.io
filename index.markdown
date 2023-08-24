@@ -40,8 +40,11 @@ heterogeneous trust, and help coalesce a new and active community on topic.
 The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
 and will take place on October 26th, 2023 in Princeton, New Jersey.
 
-We offer a limited number of travel grants for graduate students, with priority given to speakers at the workshop.
-Please fill out the [application form](https://forms.gle/HbzyJpzS7mKsAHjq8) to apply, indicating in the last question in the form that you are applying for support to attend this workshop.
+The [Stellar Development Foundation](https://www.stellar.org) offers a limited
+number of travel grants for graduate students, with priority given to speakers
+at the workshop. Please fill out the [application
+form](https://forms.gle/HbzyJpzS7mKsAHjq8) to apply, indicating in the last
+question in the form that you are applying for support to attend this workshop.
 
 # Speakers
 
@@ -76,4 +79,4 @@ will be invited to submit a paper to a journal special issue.
 # Organizers
 
 * [Christian Cachin](https://crypto.unibe.ch/cc/), University of Bern [(email)](mailto:christian.cachin@unibe.ch)
-* [Giuliano Losa](https://www.losa.fr/) Stellar Development Foundation [(email)](mailto:giuliano@stellar.org)
+* [Giuliano Losa](https://www.losa.fr/), Stellar Development Foundation [(email)](mailto:giuliano@stellar.org)
