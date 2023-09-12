@@ -48,8 +48,13 @@ question in the form that you are applying for support to attend this workshop.
 
 # Speakers
 
-- [David Mazières](https://www.scs.stanford.edu/~dm/), Standford University, USA
+- [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA
 - [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK
+- [Isaac C. Sheff](https://isaacsheff.com/), Heliax
+- [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA
+- [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA
+- [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland
+- [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA
 - More to come...
 
 # Call for abstracts
