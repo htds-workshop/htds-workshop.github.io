@@ -49,6 +49,7 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 - [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA
 - [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland
 - [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA
+- [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA
 - More to come...
 
 # Travel Grants
