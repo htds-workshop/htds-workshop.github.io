@@ -50,7 +50,9 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 - [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland
 - [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA
 - [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA
-- More to come...
+- [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA
+- Liron Schiff, Akamai Technologies
+- Yifan Mao, Ohio State University, USA
 
 # Travel Grants
 
