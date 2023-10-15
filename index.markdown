@@ -42,17 +42,28 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 
 # Speakers
 
-- [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA
-- [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK
-- [Isaac C. Sheff](https://isaacsheff.com/), Heliax
-- [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA
-- [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA
-- [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland
-- [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA
-- [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA
-- [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA
-- Liron Schiff, Akamai Technologies
-- Yifan Mao, Ohio State University, USA
+- [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA: 
+"Stake Reputation, Not Cryptocurrency"
+- [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK  
+"The semi-topology of heterogeneous consensus"
+- [Isaac C. Sheff](https://isaacsheff.com/), Heliax  
+"Chimera Chains: Cross-Domain Atomic Commits Using Heterogeneous Paxos"
+- [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA  
+"Dynamic quorums in sleepy BFT"
+- [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA  
+"Open Heterogeneous Quorum Systems"
+- [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland  
+"Bringing classical distributed protocols into the heterogeneous setting with Asymmetric Byzantine Quorum Systems"
+- [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA  
+"Optimal Flexible Consensus and its Application to Ethereum"
+- [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA  
+"Order policy enforcement in the presence of rational parties"
+- [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
+"Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
+- Liron Schiff, Akamai Technologies:  
+"Probabilistic Witness Set Selection for the Heterogeneous Trust Model"
+- Yifan Mao, Ohio State University, USA:  
+"Efficient and resilient peer-to-peer overlays for federated Byzantine agreement systems"
 
 # Travel Grants
 
