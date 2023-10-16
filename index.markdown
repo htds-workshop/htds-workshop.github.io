@@ -40,32 +40,43 @@ heterogeneous trust, and help coalesce a new and active community on topic.
 The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
 and will take place on October 26th, 2023 in Princeton, New Jersey.
 
-# Speakers
+# Tentative schedule
 
-- [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA: 
+8:30am-9am: light breakfast
+
+- 9am-9:30am: [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA  
 "Stake Reputation, Not Cryptocurrency"
-- [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK  
-"The semi-topology of heterogeneous consensus"
-- [Isaac C. Sheff](https://isaacsheff.com/), Heliax  
+- 9:30am-10am:[Isaac C. Sheff](https://isaacsheff.com/), Heliax  
 "Chimera Chains: Cross-Domain Atomic Commits Using Heterogeneous Paxos"
-- [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA  
-"Dynamic quorums in sleepy BFT"
-- [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA  
+- 10am-10:30am: [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA  
 "Open Heterogeneous Quorum Systems"
-- [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland  
+
+10:30am-11am: coffee break
+
+- 11am-11:30am: [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland  
 "Bringing classical distributed protocols into the heterogeneous setting with Asymmetric Byzantine Quorum Systems"
-- [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA  
-"Optimal Flexible Consensus and its Application to Ethereum"
-- [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA  
+- 11:30am-12am: [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK  
+"The semi-topology of heterogeneous consensus"
+- 12pm-12:30pm: [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA  
 "Order policy enforcement in the presence of rational parties"
-- [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
-"Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
-- Liron Schiff, Akamai Technologies:  
-"Probabilistic Witness Set Selection for the Heterogeneous Trust Model"
-- Yifan Mao, Ohio State University, USA:  
+
+12:30pm-1:30pm: lunch
+
+- 1:30pm-2pm: [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA  
+"Dynamic quorums in sleepy BFT"
+- 2pm:2:30pm: [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA  
+"Optimal Flexible Consensus and its Application to Ethereum"
+- 2:30pm-3pm: Yifan Mao, Ohio State University, USA:  
 "Efficient and resilient peer-to-peer overlays for federated Byzantine agreement systems"
 
-# Travel Grants
+3pm-3:30pm: coffee break
+
+- 3:30pm-4pm: Liron Schiff, Akamai Technologies:  
+"Probabilistic Witness Set Selection for the Heterogeneous Trust Model"
+- 4pm-4:30pm: [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
+"Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
+
+# Travel grants
 
 The [Stellar Development Foundation](https://www.stellar.org) offers a limited
 number of travel grants for graduate students, with priority given to speakers
