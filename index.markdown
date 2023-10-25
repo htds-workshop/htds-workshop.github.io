@@ -76,6 +76,10 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 - 4pm-4:30pm: [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
 "Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
 
+# Remote participation
+
+If you would like to participate remotely, please email both organizers to get a zoom link.
+
 # Travel grants
 
 The [Stellar Development Foundation](https://www.stellar.org) offers a limited
