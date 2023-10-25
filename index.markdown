@@ -38,7 +38,7 @@ heterogeneous trust, and help coalesce a new and active community on topic.
 # Location and dates
 
 The workshop co-located with [AFT 2023](https://aftconf.github.io/aft23/index.html)
-and will take place on October 26th, 2023 in Princeton, New Jersey.
+and will take place on October 26th, 2023 in Princeton, New Jersey, at the [Friend Center](https://www.google.com/maps/place/Friend+Center+for+Engineering+Education,+7799+William+St,+Princeton,+NJ+08540/@40.3503606,-74.6534157,19.09z/data=!4m6!3m5!1s0x89c3e6c2c6e8d9f9:0x997e4572848080d8!8m2!3d40.3503041!4d-74.6526987!16s%2Fg%2F12hrg1gp3?entry=ttu) Convocation Room (Room 113; same room as AFT).
 
 # Schedule (Eastern Daylight Time)
 
