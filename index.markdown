@@ -72,7 +72,7 @@ and will take place on October 26th, 2023 in Princeton, New Jersey.
 3pm-3:30pm: coffee break
 
 - 3:30pm-4pm: Liron Schiff, Akamai Technologies:  
-"Probabilistic Witness Set Selection for the Heterogeneous Trust Model"
+"Heterogeneous Trust with Probabilistic Witnesses"
 - 4pm-4:30pm: [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
 "Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
 
