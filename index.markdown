@@ -45,36 +45,36 @@ and will take place on October 26th, 2023 in Princeton, New Jersey, at the [Frie
 8:30am-9am: light breakfast
 
 - 9am-9:30am: [David Mazières](https://www.scs.stanford.edu/~dm/), Stanford University, USA  
-"Stake Reputation, Not Cryptocurrency"
+"Stake Reputation, Not Cryptocurrency" ([recording](https://youtu.be/5sMtaifisZA?si=3O6Z91Mb4OUikaeH))
 - 9:30am-10am:[Isaac C. Sheff](https://isaacsheff.com/), Heliax  
-"Chimera Chains: Cross-Domain Atomic Commits Using Heterogeneous Paxos"
+"Chimera Chains: Cross-Domain Atomic Commits Using Heterogeneous Paxos" ([recording](https://youtu.be/LHCUR13ifSA?si=yIpQ69Wc9BwCRqVy))
 - 10am-10:30am: [Mohsen Lesani](https://www.cs.ucr.edu/~lesani/), University of California, Riverside, USA  
-"Open Heterogeneous Quorum Systems"
+"Open Heterogeneous Quorum Systems" ([recording](https://youtu.be/hdqfoeMmjOE?si=16FZt9c9F38Wvmny))
 
 10:30am-11am: coffee break
 
 - 11am-11:30am: [Orestis Alpos](https://crypto.unibe.ch/oa/), University of Bern, Switzerland  
 "Bringing classical distributed protocols into the heterogeneous setting with Asymmetric Byzantine Quorum Systems"
 - 11:30am-12am: [Jamie Gabbay](https://gabbay.org.uk/), Heriott-Watt University, UK  
-"The semi-topology of heterogeneous consensus"
+"The semi-topology of heterogeneous consensus" ([recording](https://youtu.be/ZYk4phq3Xdo?si=7kdqZ03Y-K5QO6tn) and [slides](./gabbay.pdf))
 - 12pm-12:30pm: [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke University, USA  
-"Order policy enforcement in the presence of rational parties"
+"Order policy enforcement in the presence of rational parties" ([recording](https://youtu.be/5uCA6_VHnnU?si=qfrCZpm4lc3-PAMw))
 
 12:30pm-1:30pm: lunch
 
 - 1:30pm-2pm: [Ling Ren](https://sites.google.com/view/renling), University of Illinois at Urbana-Champaign, USA  
-"Dynamic quorums in sleepy BFT"
+"Dynamic quorums in sleepy BFT" ([recording](https://youtu.be/rJkKPQrlSFg?si=2jkAX6CTQnBxn9OV))
 - 2pm:2:30pm: [Srivatsan Sridhar](https://ssrivatsan97.github.io/), Stanford University, USA  
-"Optimal Flexible Consensus and its Application to Ethereum"
+"Optimal Flexible Consensus and its Application to Ethereum" ([recording](https://youtu.be/qCZZ7SLL93s?si=gvFeBS89DRdljzYZ))
 - 2:30pm-3pm: Yifan Mao, Ohio State University, USA:  
-"Efficient and resilient peer-to-peer overlays for federated Byzantine agreement systems"
+"Efficient and resilient peer-to-peer overlays for federated Byzantine agreement systems" ([recording](https://youtu.be/cvQd8cE_Fa8?si=xqfHu0T2dc42_OMC))
 
 3pm-3:30pm: coffee break
 
 - 3:30pm-4pm: Liron Schiff, Akamai Technologies:  
-"Heterogeneous Trust with Probabilistic Witnesses"
+"Heterogeneous Trust with Probabilistic Witnesses" ([recording](https://youtu.be/WhS_cXo2pvM?si=fNP516gZ-rMeFaDU) and [slides](./schiff.pdf))
 - 4pm-4:30pm: [Goeff Ramseyer](https://www.scs.stanford.edu/~geoff/), Stanford University, USA  
-"Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines"
+"Sisyphus: Heterogeneous and Efficient Partial Auditing of Replicated State Machines" ([recording](https://youtu.be/oByTWr7afOk?si=orDasNEGdzMi2qhy) and [slides](./ramseyer.pdf))
 
 # Remote participation
 
